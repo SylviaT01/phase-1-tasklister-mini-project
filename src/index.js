@@ -1,6 +1,6 @@
  document.addEventListener('DOMContentLoaded', () => {
     let tasks = [
-      { id: 1, title: 'Task 1', priority: 'high' },
+      { id: 1, title: 'Feed cat', priority: 'high' },
       { id: 2, title: 'Task 2', priority: 'medium' },
       { id: 3, title: 'Task 3', priority: 'low' }
     ];
